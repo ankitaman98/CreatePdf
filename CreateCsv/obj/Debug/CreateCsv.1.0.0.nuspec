@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CreateCsv</id>
+    <version>1.0.0</version>
+    <authors>Ankit Aman</authors>
+    <projectUrl>https://github.com/ankitaman98/CreatePdf</projectUrl>
+    <description>This is a pakage accepting list of data and returning a csv file .
+This also has method to convert List of data to DataTable or String Builder.</description>
+    <releaseNotes>This is a pakage accepting list of data and returning a csv file .</releaseNotes>
+    <copyright>Ankit Aman</copyright>
+    <tags>csv generate dtring stringbuilder csvgenerate generatecsv</tags>
+    <repository type="git" url="https://github.com/ankitaman98/CreatePdf" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Microsoft.AspNetCore.Mvc" version="2.2.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\CreateCsv\CreateCsv\bin\Debug\net6.0\CreateCsv.dll" target="lib\net6.0\CreateCsv.dll" />
+  </files>
+</package>

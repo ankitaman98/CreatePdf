@@ -1,0 +1,11 @@
+D:\CreateCsv\CreateCsv\bin\Release\net6.0\CreateCsv.deps.json
+D:\CreateCsv\CreateCsv\bin\Release\net6.0\CreateCsv.dll
+D:\CreateCsv\CreateCsv\bin\Release\net6.0\ref\CreateCsv.dll
+D:\CreateCsv\CreateCsv\bin\Release\net6.0\CreateCsv.pdb
+D:\CreateCsv\CreateCsv\obj\Release\net6.0\CreateCsv.GeneratedMSBuildEditorConfig.editorconfig
+D:\CreateCsv\CreateCsv\obj\Release\net6.0\CreateCsv.AssemblyInfoInputs.cache
+D:\CreateCsv\CreateCsv\obj\Release\net6.0\CreateCsv.AssemblyInfo.cs
+D:\CreateCsv\CreateCsv\obj\Release\net6.0\CreateCsv.csproj.CoreCompileInputs.cache
+D:\CreateCsv\CreateCsv\obj\Release\net6.0\CreateCsv.dll
+D:\CreateCsv\CreateCsv\obj\Release\net6.0\ref\CreateCsv.dll
+D:\CreateCsv\CreateCsv\obj\Release\net6.0\CreateCsv.pdb

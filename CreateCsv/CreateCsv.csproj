@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>CreateCsv</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Ankit Aman</Authors>
+    <Company>Ankit Aman</Company>
+    <Product>CreateCsv</Product>
+    <Description>This is a pakage accepting list of data and returning a csv file .
+This also has method to convert List of data to DataTable or String Builder.</Description>
+    <Copyright>Ankit Aman</Copyright>
+    <PackageProjectUrl>https://github.com/ankitaman98/CreatePdf</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ankitaman98/CreatePdf</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>csv;generate;dtring;stringbuilder;csvgenerate;generatecsv;</PackageTags>
+    <PackageReleaseNotes>This is a pakage accepting list of data and returning a csv file .</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.2.0" />
+  </ItemGroup>
+
+</Project>
